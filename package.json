@@ -1,0 +1,32 @@
+{
+  "name": "@rgnevashev/random",
+  "version": "1.0.0",
+  "description": "Random js tools",
+  "author": "Roman Karmatsky <rgnevashev@gmail.com>",
+  "homepage": "https://github.com/rgnevashev/random-js",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "peerDependencies": {},
+  "engines": {
+    "node": ">=8"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgnevashev/random-js"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rgnevashev/random-js/issues"
+  }
+}
